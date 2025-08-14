@@ -253,7 +253,6 @@ If you find **We-Math 2.0** useful for your your research and applications, plea
 ```bibtex
 
 ```
-## 🤝 Acknowledge
 
 ## 📞 Contact
 
