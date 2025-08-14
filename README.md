@@ -13,9 +13,9 @@
 
 
 <p align="center">
-🤗 <a href="https://huggingface.co/datasets/We-Math/We-Math2.0" target="_blank">MathBook-Standard</a> ｜
+🤗 <a href="https://huggingface.co/datasets/We-Math/We-Math2.0-Standard" target="_blank">MathBook-Standard</a> ｜
 🌐 <a href="https://we-math2.github.io/" target="_blank">Webpage</a> ｜
-🤗 <a href="https://huggingface.co/datasets/We-Math/We-Math2.0" target="_blank">MathBook-Pro</a> ｜
+🤗 <a href="https://huggingface.co/datasets/We-Math/We-Math2.0-Pro" target="_blank">MathBook-Pro</a> ｜
 </p>
 
 <p align="center">
