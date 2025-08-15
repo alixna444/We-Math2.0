@@ -1,7 +1,7 @@
 
 <div align="center"> 
 
-## [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/pdf/2407.01284) 
+## [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/abs/2508.10433) 
 
 ![Dataset](https://img.shields.io/badge/Dataset-MathBook-green)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b5212f.svg?logo=arxiv)](https://arxiv.org/abs/)
@@ -26,7 +26,7 @@
 
 > ✨ Stay tuned — we will continue to share updates as our work on multimodal reasoning progresses!
 
-- [**We-Math 2.0**](https://arxiv.org/abs/2407.01284) (Preprint 2025) - We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning
+- [**We-Math 2.0**](https://arxiv.org/abs/2508.10433) (Preprint 2025) - We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning
 - [**We-Math**](https://arxiv.org/abs/2407.01284) (ACL 2025) - We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
 
 
@@ -34,9 +34,9 @@
 
 **[2025.08.15]** 🌐 **We-Math 2.0 homepage is live at [we-math2.github.io](https://we-math2.github.io/)**. 🚀
 
-**[2025.08.15]** 📄 **We-Math 2.0 paper is now available on [arXiv](https://arxiv.org/abs/2407.01284)**. 🚀
+**[2025.08.15]** 📄 **We-Math 2.0 paper is now available on [arXiv](https://arxiv.org/abs/2508.10433)**. 🚀
 
-**[2025.08.15]** 📦 **We-Math 2.0 dataset is now available on [Hugging Face Datasets](https://huggingface.co/datasets/We-Math/We-Math2.0)**. 🚀
+**[2025.08.15]** 📦 **We-Math 2.0 dataset is now available on [Hugging Face Datasets](https://huggingface.co/datasets/We-Math/We-Math2.0-Standard)**. 🚀
 
 **[2025.05.16]** 🎉 We-Math is accepted by ACL 2025 🎉
 
