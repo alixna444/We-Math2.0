@@ -177,7 +177,7 @@ pip install ms-swift -U
 ```
 #### 2. Fine-Tuning
 
-Our SFT dataset consists of two parts: 200 pure text samples and 800 samples with associated images. Download the SFT dataset from 🤗[MathBook-SFT](https://huggingface.co/datasets/) and refer to the script below for fine-tuning.
+Our SFT dataset consists of two parts: 200 pure text samples and 800 samples with associated images. Download the SFT dataset from 🤗[MathBook-SFT](https://huggingface.co/datasets/We-Math/We-Math2.0-SFT) and refer to the script below for fine-tuning.
 
 ```bash
 nproc_per_node=8
@@ -216,7 +216,7 @@ pip install -r requirements.txt
 
 Both RL stages are developed based on the [EasyR1](https://github.com/hiyouga/EasyR1) codebase to fit our workflow.
 
-For data preparation, you can directly download Parquet-format datasets from [🤗MathBook-Standard](https://huggingface.co) for training.
+For data preparation, you can directly download Parquet-format datasets from [🤗MathBook-Standard](https://huggingface.co/datasets/We-Math/We-Math2.0-Standard) and [🤗MathBook-Pro](https://huggingface.co/datasets/We-Math/We-Math2.0-Pro) for training.
 
 ##### 2.1 Pre-aligned RL (MathBook-Standard)
 
