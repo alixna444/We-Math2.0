@@ -251,7 +251,15 @@ Our dataset are distributed under the [CC BY-NC 4.0](https://creativecommons.org
 If you find **We-Math 2.0** useful for your your research and applications, please kindly cite using this BibTeX:
 
 ```bibtex
-
+@misc{qiao2025wemath20versatilemathbook,
+      title={We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning}, 
+      author={Runqi Qiao and Qiuna Tan and Peiqing Yang and Yanzi Wang and Xiaowan Wang and Enhui Wan and Sitong Zhou and Guanting Dong and Yuchen Zeng and Yida Xu and Jie Wang and Chong Sun and Chen Li and Honggang Zhang},
+      year={2025},
+      eprint={2508.10433},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.10433}, 
+}
 ```
 
 ## 📞 Contact
