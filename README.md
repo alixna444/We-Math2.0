@@ -224,7 +224,7 @@ For data preparation, you can directly download Parquet-format datasets from [ðŸ
 cd pre_align
 
 python3 -m verl.trainer.main \
-    config=pre_align_r1v.yaml \
+    config=pre_align_r1v.yaml
 ```
 
 ##### 2.2 Dynamic Scheduling RL (MathBook-Pro)
@@ -233,7 +233,7 @@ python3 -m verl.trainer.main \
 cd dynamic_scheduling
 
 python3 -m verl.trainer.main \
-    config=dynamic_scheduling_r1v.yaml \
+    config=dynamic_scheduling_r1v.yaml
 ```
 #### Merge Checkpoint in Hugging Face Format
 ```bash
