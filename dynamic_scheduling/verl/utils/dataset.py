@@ -322,7 +322,7 @@ class DynamicScheduler:
         for question_id in all_question_ids:
             self.question_states[question_id] = QuestionState()
         
-    def get_next_difficulty(self, current_difficulty: str, is_correct: bool) -> str:
+    def get_next_difficulty(self, current_difficulty: str, is_correct: bool, wrong_count: int) -> str:
         """
         Decide next difficulty to attempt for a question based on current state and answer result.
 
